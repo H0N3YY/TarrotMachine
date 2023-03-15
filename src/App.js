@@ -1,9 +1,9 @@
 import "./style/index.css";
 import Card from "./components/Card";
-
+import './style/app.css'
 function App() {
   return (
-    <div>
+    <div className='App'>
       <div className="tittle">
         <p> Question Machine </p>
       </div>
