@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <div className="tittle">
-        <p> Question Machine </p>
+        <p>🔮 Question Machine 🔮</p>
       </div>
 
       <Card />
