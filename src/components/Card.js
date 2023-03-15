@@ -1,10 +1,12 @@
 import "../style/card.css";
 import { Button } from "./Button";
+import LotteryQuestions from "./LotteryQuestions";
 const Card = () => {
   return (
     <div className="card">
-      <p> Tutaj będzie pytanie</p>
-       <Button/>
+      <h1> WYLOSOWANE PYTANIE : </h1>
+      <LotteryQuestions />
+      <Button />
     </div>
   );
 };
