@@ -8,6 +8,10 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    background-image: url("../../public/wallpaper.jpg");
+    background-size: 100%;
+    background-blend-mode:hard-light;
+    background-attachment: scroll;
   }
   
   body {
