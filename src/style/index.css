@@ -8,13 +8,14 @@
 /* WEB STYLE */
 * {
     box-sizing: border-box;
+    
   }
   
   html {
     width: 100%;
     height: 100%;
     font-family: sans-serif;
-    background-color: rgb(75, 136, 189);
+    background-color: rgb(67, 125, 188);
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -22,10 +23,12 @@
     background-size: 100%;
     background-blend-mode:hard-light;
     background-attachment: scroll;
+    
   }
   
   body {
     width: 100%;
     height: 100%;
     margin: 0;
+    
   }
