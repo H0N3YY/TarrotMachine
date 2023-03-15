@@ -1,11 +1,11 @@
 import "./style/index.css";
 import Card from "./components/Card";
-import './style/app.css'
+import "./style/app.css";
 function App() {
   return (
-    <div className='App'>
+    <div className="app">
       <div className="tittle">
-        <p> Question Machine </p>
+        <p>🔮 Question Machine 🔮</p>
       </div>
 
       <Card />
