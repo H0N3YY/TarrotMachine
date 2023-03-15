@@ -21,21 +21,3 @@
     margin: 0;
   }
 
-  .tittle p {
-    padding: 15px;
-  }
-  
-.tittle{
-    font-size: 300%;
-    width: 100%;
-    height: 100%;
-    color: rgb(0, 0, 0);
-    font-family: 'Tilt Neon', cursive;
-    background-color: rgb(255, 255, 255);
-    border-radius: 10em;
-    text-shadow: 2px 2px rgba(16, 191, 255, 0.629);
-  }
-
-.tittle:hover{
-    text-shadow: 2px 2px rgba(255, 106, 183, 0.629);
-}
