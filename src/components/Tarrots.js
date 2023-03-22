@@ -1,5 +1,5 @@
-const Questions = () => {
-  let allQuestions = [
+const Tarrots = () => {
+  let allTarrots = [
     "Czym jest JavaScript?",
     "W jaki sposób możemy deklarować zmienne w JavaScript?",
     "Jakie typy danych są obsługiwane przez JavaScript?",
@@ -10,6 +10,6 @@ const Questions = () => {
     "Czym są instrukcje warunkowe? Jakie znasz ich zastosowanie?",
   ];
 
-  return allQuestions;
+  return allTarrots;
 };
-export default Questions;
+export default Tarrots;
