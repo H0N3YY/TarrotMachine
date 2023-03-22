@@ -1,11 +1,11 @@
 import "../style/card.css";
 import { Button } from "./Button";
-import LotteryQuestions from "./LotteryQuestions";
+import LotteryTarrots from "./LotteryTarrots";
 const Card = () => {
   return (
     <div className="card">
-      <h1> WYLOSOWANE PYTANIE : </h1>
-      <LotteryQuestions />
+      <h1> CO PRZYNIESIE CI PRZYSZŁOŚĆ?</h1>
+      <LotteryTarrots />
       <Button />
     </div>
   );
