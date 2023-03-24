@@ -1,6 +1,6 @@
-import allTarrots from "./Tarrots";
+import Tarrots from "./Tarrots";
 const LotteryTarots = () => {
-  const lottery = allTarrots;
+  const lottery = Tarrots();
 
   return lottery;
 };
