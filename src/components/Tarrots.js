@@ -1,5 +1,5 @@
 const Tarrots = () => {
-  let allTarrots = [
+  let TarrotsCards = [
     { id: 1, img: "../asset/c0.jpg" },
     { id: 2, img: "../asset/c1.jpg" },
     { id: 3, img: "../asset/c2.jpg" },
@@ -24,6 +24,6 @@ const Tarrots = () => {
     { id: 22, img: "../asset/c21.jpg" },
   ];
 
-  return allTarrots;
+  return TarrotsCards;
 };
 export default Tarrots;
