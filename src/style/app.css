@@ -11,14 +11,14 @@
 .tittle{
   color: rgb(0, 0, 0);
   font-size: 250%;
-  text-shadow: 2px 2px rgba(16, 191, 255, 0.629);
+  text-shadow: 2px 2px rgba(126, 78, 47, 0.629);
   text-align: center;
   font-family: 'Tilt Neon', cursive;
   background-color: rgba(255, 255, 255, 0.796);
   box-shadow: 0 5px 8px rgb(5, 46, 87);
-  border-radius: 10em;
+  border-radius: 0.3em;
   }
 
 .tittle:hover{
-    text-shadow: 2px -2px rgba(158, 106, 255, 0.629);
+    text-shadow: 2px -2px rgba(161, 100, 76, 0.629);
 }
