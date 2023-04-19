@@ -5,6 +5,13 @@
   margin: 0;
 }
 
+.card p {
+  font-family: 'Slabo 27px', serif;
+  font-size: 140%;
+  padding: 2%;
+  margin: 0;
+}
+
 
 .card {
   width: 100%;
