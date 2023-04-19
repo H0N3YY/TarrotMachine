@@ -5,12 +5,21 @@
   margin: 0;
 }
 
+.card p {
+  font-family: 'Slabo 27px', serif;
+  font-size: 140%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  margin: 0;
+}
+
 
 .card {
-    width: 100%;
-    height: 100%;
-    background-color: rgba(255, 255, 255, 0.796);
-    box-shadow: 0 5px 8px rgb(5, 46, 87);
-    border-radius: 10em;
-    text-align: center;
-  }
+  width: 100%;
+  height: 45em;
+  background-color: rgba(255, 255, 255, 0.796);
+  box-shadow: 0 5px 8px rgb(5, 46, 87);
+  border-radius: 0.3em;
+  text-align: center;
+}
