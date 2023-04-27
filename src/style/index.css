@@ -7,28 +7,40 @@
 
 /* WEB STYLE */
 * {
-    box-sizing: border-box;
-    
+  box-sizing: border-box;
+
+}
+
+html {
+  width: 100%;
+  height: 100%;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  background: linear-gradient(300deg, #806533, #ffcf98, #c75c3b);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
   }
-  
-  html {
-    width: 100%;
-    height: 100%;
-    font-family: sans-serif;
-    background-color: rgb(67, 125, 188);
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    background-color: #E3CAA5;
-    background-size: 100%;
-    background-blend-mode:hard-light;
-    background-attachment: scroll;
-    
+
+  50% {
+    background-position: 100% 50%;
   }
-  
-  body {
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    
+
+  100% {
+    background-position: 0% 50%;
   }
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+
+}
