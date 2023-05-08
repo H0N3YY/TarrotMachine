@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="app">
       <div className="tittle">
-        <p>＊✡ Tarot Machine ✡＊</p>
+        <p>＊✡ TAROT MACHINE ✡＊</p>
       </div>
 
       <Card />
