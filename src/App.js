@@ -7,7 +7,7 @@ function App() {
       <div className="tittle">
         <p>＊✡ TAROT MACHINE ✡＊</p>
       </div>
-
+      
       <Card />
     </div>
   );
