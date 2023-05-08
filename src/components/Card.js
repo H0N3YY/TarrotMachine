@@ -1,5 +1,5 @@
 import "../style/card.css";
-import { Button } from "./Button";
+// import { Button } from "./Button";
 // import LotteryTarrots from "./LotteryTarrots";
 import Tarrots from "./Tarrots";
 const Card = () => {
